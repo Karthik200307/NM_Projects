@@ -148,4 +148,10 @@ Potential improvements:
 
 - Multi-language support for broader accessibility.
 
-- 
+some of reference resources are given below 👇 👇 👇 
+
+![IMG-20241113-WA0003](https://github.com/user-attachments/assets/3b127a24-a3ae-452b-a2c9-adf93651fcf6)
+![IMG-20241113-WA0004](https://github.com/user-attachments/assets/ffe29d65-431c-4646-9fdc-8142e727c46d)
+![IMG-20241113-WA0005](https://github.com/user-attachments/assets/d4053845-f2c7-4750-ab60-788ed957d286)
+![IMG-20241113-WA0006](https://github.com/user-attachments/assets/64afa8a9-b221-4919-a6a2-c31edda28251)
+![IMG-20241113-WA0007](https://github.com/user-attachments/assets/c423645a-b75e-4719-8007-7ac945206b26)
